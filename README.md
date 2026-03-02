@@ -13,7 +13,7 @@ I'm a computer science student from Indonesia who enjoys turning data into clear
 
 <p align="left">
   <!-- Replace this with your own tech/tools image (e.g., icons for Python, SQL, Java, React, Figma) -->
-  <img src="asset/Using & Learning.png" alt="Tech and tools" />
+  <img src="asset/Using & Learning.png" alt="Using & Learning" />
 </p>
 <p>
 
@@ -31,7 +31,7 @@ I'm a computer science student from Indonesia who enjoys turning data into clear
 
 <p align="left">
   <!-- Replace this with your own contact image (e.g., email / LinkedIn icons) -->
-  <img src="asset/Contact.png" alt="Contact" />
+  <img src="asset/Contact.png" alt="Contacts" />
 </p>
 
 <p align="left">
