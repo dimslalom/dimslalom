@@ -1,17 +1,17 @@
-<h1 align="center">Hi, I'm Dimas 👋</h1>
+<h1 align="left">Hi, I'm Dimas 👋</h1>
 
-<p align="center">
+<p align="left">
   CS student at UQ &amp; ITS • Data &amp; Media Enthusiast
 </p>
 
-<p align="center">
+<p align="left">
   <!-- Replace this with your own "About Me" image -->
   <img src="asset/About Me.png" alt="About me" />
 </p>
 
 I'm a computer science student from Indonesia who enjoys turning data into clear stories. I have a background in media, content creation, and UI design, and I'm working towards becoming a data analyst.
 
-<p align="center">
+<p align="left">
   <!-- Replace this with your own tech/tools image (e.g., icons for Python, SQL, Java, React, Figma) -->
   <img src="asset/Using & Learning.png" alt="Tech and tools" />
 </p>
@@ -29,11 +29,11 @@ I'm a computer science student from Indonesia who enjoys turning data into clear
 
 </p>
 
-<p align="center">
+<p align="left">
   <!-- Replace this with your own contact image (e.g., email / LinkedIn icons) -->
   <img src="asset/Contact.png" alt="Contact" />
 </p>
 
-<p align="center">
+<p align="left">
   📧 <a href="mailto:dimasgisthaa@gmail.com">dimasgisthaa@gmail.com</a>
 </p>
