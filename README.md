@@ -5,33 +5,25 @@
 </p>
 
 <p align="left">
-  <!-- Replace this with your own "About Me" image -->
-  <img src="asset/About Me.png" alt="About me" />
+  <img src="asset/About Me.png" alt="About me" width="300" />
 </p>
 
 I'm a computer science student from Indonesia who enjoys turning data into clear stories. I have a background in media, content creation, and UI design, and I'm working towards becoming a data analyst.
 
 <p align="left">
-  <!-- Replace this with your own tech/tools image (e.g., icons for Python, SQL, Java, React, Figma) -->
-  <img src="asset/Using & Learning.png" alt="Using & Learning" />
+  <img src="asset/Using & Learning.png" alt="Using & Learning" width="200" />
 </p>
+
 <p>
-
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
-
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" />
-
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&amp;logo=java&amp;logoColor=white" />
-
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" />
-
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white" />
-
 </p>
 
 <p align="left">
-  <!-- Replace this with your own contact image (e.g., email / LinkedIn icons) -->
-  <img src="asset/Contact.png" alt="Contacts" />
+  <img src="asset/Contact.png" alt="Contacts" width="150" />
 </p>
 
 <p align="left">
