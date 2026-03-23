@@ -11,7 +11,7 @@
 I'm a computer science student from Indonesia who enjoys turning data into clear stories. I have a background in media, content creation, and UI design, and I'm working towards becoming a data analyst.
 
 <p align="left">
-  <img src="asset/Using & Learning.png" alt="Using & Learning" width="200" />
+  <img src="asset/Using & Learning.png" alt="Using & Learning" width="300" />
 </p>
 
 <p>
@@ -23,7 +23,7 @@ I'm a computer science student from Indonesia who enjoys turning data into clear
 </p>
 
 <p align="left">
-  <img src="asset/Contact.png" alt="Contacts" width="150" />
+  <img src="asset/Contact.png" alt="Contacts" width="300" />
 </p>
 
 <p align="left">
