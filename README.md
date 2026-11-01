@@ -12,24 +12,24 @@ I'm a designer who builds apps, tools and games.
 
 <table>
 <tr>
-<td width="396" valign="top">
+<td width="423" valign="top">
 <a href="https://github.com/dimslalom/Downtime"><img src="asset/work/downtime.webp" alt="Downtime" width="100%" /></a><br />
 <a href="https://github.com/dimslalom/Downtime"><strong>Downtime</strong></a><br />
 <sub>Flashcards for the downtime in your games</sub>
 </td>
-<td width="396" valign="top">
+<td width="423" valign="top">
 <a href="https://github.com/dimslalom/btd6-macaque-mod-loader"><img src="asset/work/macaqueloader.webp" alt="MacaqueLoader" width="100%" /></a><br />
 <a href="https://github.com/dimslalom/btd6-macaque-mod-loader"><strong>MacaqueLoader</strong></a><br />
 <sub>Mods for Bloons TD 6 on Apple Silicon Macs</sub>
 </td>
 </tr>
 <tr>
-<td width="396" valign="top">
+<td width="423" valign="top">
 <a href="https://github.com/dimslalom/2605-Valorant-Fantasy-League"><img src="asset/work/valorant-fantasy-league.webp" alt="Valorant Fantasy League" width="100%" /></a><br />
 <a href="https://github.com/dimslalom/2605-Valorant-Fantasy-League"><strong>Valorant Fantasy League</strong></a><br />
 <sub>Draft pro players as cards and run them through simulated tournaments</sub>
 </td>
-<td width="396" valign="top">
+<td width="423" valign="top">
 <a href="https://dimas.works"><img src="asset/work/lawup.webp" alt="LAWup" width="100%" /></a><br />
 <a href="https://dimas.works"><strong>LAWup</strong></a> <sub>UX</sub><br />
 <sub>A gamified app that makes Indonesian law approachable</sub>
