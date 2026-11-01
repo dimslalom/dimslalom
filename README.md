@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="garden/garden-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="garden/garden-light.svg" />
+  <img src="garden/garden-light.svg" alt="A Delft-blue botanical plate of my GitHub contributions: one plant per week, taller and more elaborate the busier the week." width="100%" />
+</picture>
+
 <h1 align="left">Hi, I'm Dimas 👋</h1>
 
 <p align="left">
@@ -29,3 +35,14 @@ I'm a computer science student from Indonesia who enjoys turning data into clear
 <p align="left">
   📧 <a href="mailto:dimasgisthaa@gmail.com">dimasgisthaa@gmail.com</a>
 </p>
+
+<details>
+<summary>How the garden grows</summary>
+
+The plate above is regenerated daily from my contribution calendar by a GitHub Action, with no external image service. Each week $w$ with $c_w$ contributions grows a stem of height
+
+$$h_w = 30 + 300 \cdot \frac{\ln(1 + c_w)}{\ln(1 + c_{\max})}$$
+
+so the quiet weeks stay as grass and the busiest week earns the gold star. Source: [`garden/generate.py`](garden/generate.py).
+
+</details>
