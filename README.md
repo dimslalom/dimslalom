@@ -4,45 +4,41 @@
   <img src="garden/garden-light.svg" alt="A Delft-blue botanical plate of my GitHub contributions: one plant per week, taller and more elaborate the busier the week." width="100%" />
 </picture>
 
-<h1 align="left">Hi, I'm Dimas 👋</h1>
+<h1>Hi, I'm Dimas 👋</h1>
 
-<p align="left">
-  CS student at UQ &amp; ITS • Data &amp; Media Enthusiast
-</p>
+I'm a designer who builds apps, tools and games.
 
-<p align="left">
-  <img src="asset/About Me.png" alt="About me" width="300" />
-</p>
+[Portfolio](https://dimas.works) &emsp; [LinkedIn](https://linkedin.com/in/dimasgistha)
 
-I'm a computer science student from Indonesia who enjoys turning data into clear stories. I have a background in media, content creation, and UI design, and I'm working towards becoming a data analyst.
+<table>
+<tr>
+<td width="396" valign="top">
+<a href="https://github.com/dimslalom/Downtime"><img src="asset/work/downtime.webp" alt="Downtime" width="100%" /></a><br />
+<a href="https://github.com/dimslalom/Downtime"><strong>Downtime</strong></a><br />
+<sub>Flashcards for the downtime in your games</sub>
+</td>
+<td width="396" valign="top">
+<a href="https://github.com/dimslalom/btd6-macaque-mod-loader"><img src="asset/work/macaqueloader.webp" alt="MacaqueLoader" width="100%" /></a><br />
+<a href="https://github.com/dimslalom/btd6-macaque-mod-loader"><strong>MacaqueLoader</strong></a><br />
+<sub>Mods for Bloons TD 6 on Apple Silicon Macs</sub>
+</td>
+</tr>
+<tr>
+<td width="396" valign="top">
+<a href="https://github.com/dimslalom/2605-Valorant-Fantasy-League"><img src="asset/work/valorant-fantasy-league.webp" alt="Valorant Fantasy League" width="100%" /></a><br />
+<a href="https://github.com/dimslalom/2605-Valorant-Fantasy-League"><strong>Valorant Fantasy League</strong></a><br />
+<sub>Draft pro players as cards and run them through simulated tournaments</sub>
+</td>
+<td width="396" valign="top">
+<a href="https://dimas.works"><img src="asset/work/lawup.webp" alt="LAWup" width="100%" /></a><br />
+<a href="https://dimas.works"><strong>LAWup</strong></a> <sub>UX</sub><br />
+<sub>A gamified app that makes Indonesian law approachable</sub>
+</td>
+</tr>
+</table>
 
-<p align="left">
-  <img src="asset/Using & Learning.png" alt="Using & Learning" width="300" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&amp;logo=java&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white" />
-</p>
-
-<p align="left">
-  <img src="asset/Contact.png" alt="Contacts" width="300" />
-</p>
-
-<p align="left">
-  📧 <a href="mailto:dimasgisthaa@gmail.com">dimasgisthaa@gmail.com</a>
-</p>
-
-<details>
-<summary>How the garden grows</summary>
-
-The plate above is regenerated daily from my contribution calendar by a GitHub Action, with no external image service. Each week $w$ with $c_w$ contributions grows a stem of height
-
-$$h_w = 30 + 300 \cdot \frac{\ln(1 + c_w)}{\ln(1 + c_{\max})}$$
-
-so the quiet weeks stay as grass and the busiest week earns the gold star. Source: [`garden/generate.py`](garden/generate.py).
-
-</details>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="asset/tools-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="asset/tools-light.svg" />
+  <img src="asset/tools-light.svg" alt="Tools: Figma, Photoshop, Illustrator, Canva, Premiere Pro, After Effects, DaVinci Resolve, Python, SQL, Pandas, TypeScript, React, Next.js and Java" />
+</picture>
